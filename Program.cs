@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-
+//Farhad_Iskandarov
 namespace ConsoleApplication20
 {
      class Program
